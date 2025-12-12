@@ -35,9 +35,9 @@ server.emlynlj.co.uk:2185
 140.238.203.31:19132
 #Zandstraal Server
 zandstra.duckdns.org:8800
-#Delta Servers
-ksp.delabonifier.com:33790
-ksp.delabonifier.com:33792
-ksp.delabonifier.com:33793
+#Delta Servers v3
+ds.dy.fi:8801
+ds.dy.fi:8802
+ds.dy.fi:8803
 #Kerfus Server
 [2a03:6f00:a::1:1529]:8800
